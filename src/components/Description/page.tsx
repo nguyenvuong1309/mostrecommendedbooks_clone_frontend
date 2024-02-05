@@ -23,13 +23,13 @@ const Description = () => {
                     Series will show you every book published in a series.
                 </div>
                 <div>
-                    We've been doing this for years and we still spend all our time making improvements, adding more book lists, and finding novel ways to enhance people's love for books.
+                    {"We've been doing this for years and we still spend all our time making improvements, adding more book lists, and finding novel ways to enhance people's love for books."}
                 </div>
                 <div className="font-bold underline underline-offset-1 mt-10">
-                    Oh, and we're 100% free!
+                    {"Oh, and we're 100% free!"}
                 </div>
                 <div>
-                    People can donate to us or buy via our Amazon referral links as many times as they want (it's a sign we're being helpful to them) but they can visit the entire site without spending a cent :)
+                    {"People can donate to us or buy via our Amazon referral links as many times as they want (it's a sign we're being helpful to them) but they can visit the entire site without spending a cent :)"}
                 </div>
             </div>
         </div>

@@ -14,7 +14,7 @@ const People = () => {
                 <div className="text-[40px] text-[#1c1c1c] font-bold">People</div>
             </div>
             <div className="grid justify-center text-[18px] text-[#4d4d4d] mb-20">
-                <div className="flex justify-center">Here you'll find all our experts.</div>
+                <div className="flex justify-center">{"Here you'll find all our experts."}</div>
                 <div className="flex justify-center">Feel free to browse around!</div>
             </div>
             <div className="flex justify-center mb-36">
